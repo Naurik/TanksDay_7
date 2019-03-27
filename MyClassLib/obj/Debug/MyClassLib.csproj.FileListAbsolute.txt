@@ -1,0 +1,5 @@
+c:\users\acer-pc\source\repos\Day7_Tanks\MyClassLib\bin\Debug\MyClassLib.dll
+c:\users\acer-pc\source\repos\Day7_Tanks\MyClassLib\bin\Debug\MyClassLib.pdb
+c:\users\acer-pc\source\repos\Day7_Tanks\MyClassLib\obj\Debug\MyClassLib.csproj.CoreCompileInputs.cache
+c:\users\acer-pc\source\repos\Day7_Tanks\MyClassLib\obj\Debug\MyClassLib.dll
+c:\users\acer-pc\source\repos\Day7_Tanks\MyClassLib\obj\Debug\MyClassLib.pdb

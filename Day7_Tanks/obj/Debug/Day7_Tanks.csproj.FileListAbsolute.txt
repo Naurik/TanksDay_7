@@ -1,0 +1,10 @@
+c:\users\acer-pc\source\repos\Day7_Tanks\Day7_Tanks\bin\Debug\Day7_Tanks.exe.config
+c:\users\acer-pc\source\repos\Day7_Tanks\Day7_Tanks\bin\Debug\Day7_Tanks.exe
+c:\users\acer-pc\source\repos\Day7_Tanks\Day7_Tanks\bin\Debug\Day7_Tanks.pdb
+c:\users\acer-pc\source\repos\Day7_Tanks\Day7_Tanks\bin\Debug\MyClassLib.dll
+c:\users\acer-pc\source\repos\Day7_Tanks\Day7_Tanks\bin\Debug\MyClassLib.pdb
+c:\users\acer-pc\source\repos\Day7_Tanks\Day7_Tanks\obj\Debug\Day7_Tanks.csprojAssemblyReference.cache
+c:\users\acer-pc\source\repos\Day7_Tanks\Day7_Tanks\obj\Debug\Day7_Tanks.csproj.CoreCompileInputs.cache
+c:\users\acer-pc\source\repos\Day7_Tanks\Day7_Tanks\obj\Debug\Day7_Tanks.csproj.CopyComplete
+c:\users\acer-pc\source\repos\Day7_Tanks\Day7_Tanks\obj\Debug\Day7_Tanks.exe
+c:\users\acer-pc\source\repos\Day7_Tanks\Day7_Tanks\obj\Debug\Day7_Tanks.pdb
